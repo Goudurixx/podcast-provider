@@ -8,6 +8,12 @@ category: Technology
 format: audio/mpeg
 link: https://goudurixx.github.io/podcast-provider/
 item:
+  - title: EP00-It will start
+    description: copy of podcast 1
+    published: Thu, 12 Jan 2023 18:00:00 GMT
+    file: /audio/TFIT01.mp3
+    duration: 00:00:36
+    length: 576,324
   - title: EP01-What's Happening in 2023
     description: Ray Villalobos and Content Managers Natalie Pao and Simon St. Laurent discuss what 2023 holds for the future in technology.
     published: Thu, 12 Jan 2023 18:00:00 GMT
