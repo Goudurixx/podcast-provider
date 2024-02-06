@@ -1,4 +1,4 @@
-# The Future in Tech
+# The Future in Tech 
 
 <img src="https://raybo.org/tfit-feed/images/artwork.jpg" width="250">
 
@@ -17,3 +17,6 @@ You have a chance to hear from people who are not just talking about, but buildi
 - [YouTube Playlist](https://go.raybo.org/tfit-youtube)
 - [Podcast Feed - Audio Only](https://go.raybo.org/tfit-feed-audio)
 - [Episode Newsletter](https://go.raybo.org/tfit-newsletter)
+
+
+# Should probably do a better readme
