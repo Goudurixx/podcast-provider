@@ -1,14 +1,11 @@
 name: Generate Podcast Feeds
 on: [push] 
-permissions:
-      contents: read
-      packages: write
 jobs:
   build:
     runs-on: ubuntu-latest
     steps: 
       - name: Checkout Repo
-        uses: action/checkout@v2
+        uses: actions/checkout@v2
       - name: Setup Python
         uses: actions/setup-python@v4
         with:
